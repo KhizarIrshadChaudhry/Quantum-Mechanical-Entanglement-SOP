@@ -49,5 +49,5 @@ speak Danish.
 
 -   `Quantum Mechanical Entanglement Thesis SOP.pdf` -- The complete SOP
     thesis/report (Danish).
--   `Defence Presentation.pptx` -- Defence presentation used for the
+-   `Thesis Defence.pptx` -- Defence presentation used for the
     oral examination (Danish).
